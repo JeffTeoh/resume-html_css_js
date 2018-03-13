@@ -1,6 +1,5 @@
 *{
 	font-family:Times New Roman;
-	/*border:1px dotted black;*/
 }
 
 #name{	
@@ -26,6 +25,10 @@
 #pic{
 	background-color:purple;
 	float:right;
+}
+
+.header p{
+	font-size:23px;
 }
 
 .categories{
@@ -54,9 +57,6 @@
 	margin-right:10px;
 }
 
-.bar{
-	font-weight:bold;
-}
 
 .tab{
 	margin-left:110px;
@@ -101,4 +101,9 @@
 	margin-right:10px;
 	float:left;
 	height:80px;
+}
+
+#pff img{
+	float:left;
+	height:50px;
 }
