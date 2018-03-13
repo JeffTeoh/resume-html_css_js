@@ -1,5 +1,6 @@
 *{
 	font-family:Times New Roman;
+	/*border:1px dotted black;*/
 }
 
 #name{	
@@ -51,6 +52,10 @@
 	float:left;
 	height:100px;
 	margin-right:10px;
+}
+
+.bar{
+	font-weight:bold;
 }
 
 .tab{
