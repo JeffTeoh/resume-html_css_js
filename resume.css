@@ -14,11 +14,12 @@
 }
 
 #name span{
-	margin-left:10px;
 	font-size:20px;
 }
 
+
 #pic{
+	padding-bottom:10px;
 	float:right;
 }
 
