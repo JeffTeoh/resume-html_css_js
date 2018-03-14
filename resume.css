@@ -9,10 +9,12 @@
 }
 
 #name i{
+	margin-right:30px;
 	font-size:30px;
 }
 
 #name span{
+	margin-left:10px;
 	font-size:20px;
 }
 
