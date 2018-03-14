@@ -4,6 +4,16 @@
 
 @media only screen and (max-width: 600px){
 	.theme{margin-left:10px;}
+	
+	#pic{
+		margin:auto;
+		width:100%;
+	}
+	
+	#address{
+		display:inline-block;
+		margin-left:10px;
+	}
 }
 
 #name{
@@ -12,17 +22,8 @@
 	padding-top:20px;
 }
 
-#name i{
-	margin-right:30px;
-	font-size:30px;
-}
-
-#name span{
-	font-size:20px;
-}
-
-
 #pic{
+	padding-top:10px;
 	padding-bottom:10px;
 	float:right;
 }
@@ -31,8 +32,15 @@
 	background-color:purple;
 }
 
-.header p{
-	font-size:20px;
+.header i{
+	color:#ffffff;
+	margin-right:30px;
+	font-size:30px;
+}
+
+.header span{
+	color:#ffffff;
+	font-size:20px;	
 }
 
 .categories{
