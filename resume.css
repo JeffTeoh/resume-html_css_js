@@ -2,6 +2,10 @@
 	font-family:Times New Roman;
 }
 
+@media only screen and (max-width: 600px){
+	.theme{margin-left:10px;}
+}
+
 #name{
 	color:#ffffff;
 	text-align:center;
